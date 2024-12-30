@@ -1,0 +1,8 @@
+mysql-connector-python
+pandas
+flask
+sqlalchemy
+PyPDF2
+numpy
+openai
+python-dotenv

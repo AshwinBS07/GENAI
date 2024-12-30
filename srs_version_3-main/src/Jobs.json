@@ -1,0 +1,68 @@
+[
+  {
+    "jobName": "Software Engineer",
+    "location": "Bangalore, India",
+    "ctc": "12 LPA",
+    "employmentType": "Full-Time",
+    "jobDescription": "Responsible for developing and maintaining web applications using React and Node.js.",
+    "jobRating": 4.5,
+    "roleCategory": "IT/Software Development",
+    "educationRequired": "B.E./B.Tech in Computer Science or equivalent",
+    "jobPostedOn": "2024-12-10",
+    "openings": 5,
+    "totalApplications": 120
+  },
+  {
+    "jobName": "Data Analyst",
+    "location": "Hyderabad, India",
+    "ctc": "8 LPA",
+    "employmentType": "Full-Time",
+    "jobDescription": "Analyze large datasets to identify trends and generate actionable insights.",
+    "jobRating": 4.2,
+    "roleCategory": "Analytics",
+    "educationRequired": "B.Sc./M.Sc. in Statistics, Mathematics, or related fields",
+    "jobPostedOn": "2024-12-08",
+    "openings": 3,
+    "totalApplications": 85
+  },
+  {
+    "jobName": "Digital Marketing Specialist",
+    "location": "Mumbai, India",
+    "ctc": "6 LPA",
+    "employmentType": "Full-Time",
+    "jobDescription": "Develop and execute digital marketing strategies to enhance brand visibility.",
+    "jobRating": 4.0,
+    "roleCategory": "Marketing",
+    "educationRequired": "MBA in Marketing or equivalent",
+    "jobPostedOn": "2024-12-05",
+    "openings": 2,
+    "totalApplications": 60
+  },
+  {
+    "jobName": "HR Manager",
+    "location": "Delhi, India",
+    "ctc": "10 LPA",
+    "employmentType": "Full-Time",
+    "jobDescription": "Manage the end-to-end recruitment process and employee engagement programs.",
+    "jobRating": 4.3,
+    "roleCategory": "Human Resources",
+    "educationRequired": "MBA in HR or equivalent",
+    "jobPostedOn": "2024-12-07",
+    "openings": 1,
+    "totalApplications": 45
+  },
+  {
+    "jobName": "UI/UX Designer",
+    "location": "Remote",
+    "ctc": "9 LPA",
+    "employmentType": "Full-Time",
+    "jobDescription": "Design intuitive and user-friendly interfaces for web and mobile applications.",
+    "jobRating": 4.6,
+    "roleCategory": "Design",
+    "educationRequired": "B.Des. in Graphic Design or equivalent",
+    "jobPostedOn": "2024-12-09",
+    "openings": 4,
+    "totalApplications": 95
+  }
+]
+ 
